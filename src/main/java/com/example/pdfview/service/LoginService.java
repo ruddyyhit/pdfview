@@ -10,5 +10,11 @@ public class LoginService {
 		return userid.equalsIgnoreCase("user")
 				&& password.equalsIgnoreCase("12345");
 	}
-
+	
+	public Object pdfRead() {
+		
+		
+		
+		return null;
+	}
 }
